@@ -4,3 +4,4 @@ working
 master
 venv/
 .python-version
+conf/
