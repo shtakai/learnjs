@@ -1,6 +1,8 @@
 
 ## Change Log
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/learnjs.svg)](https://www.guardrails.io)
+
 ### Beta 3 Changes
 
   * Compensating for AWSCLI timing issues when creating roles
